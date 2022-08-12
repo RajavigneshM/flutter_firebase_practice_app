@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564785774067",
+    "project_id": "fir-practice-eb629",
+    "storage_bucket": "fir-practice-eb629.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564785774067:android:aab12a038eb9832639a686",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_practice_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564785774067-kppqbks71s6m6l8ted9nak2aatan2mi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCros1p7kXGckW0eKcFjDJ6HuoaPNB0oKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564785774067-kppqbks71s6m6l8ted9nak2aatan2mi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
